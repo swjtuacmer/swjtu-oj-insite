@@ -64,8 +64,6 @@ tmp/
 test_case/
 release/
 upload/
-custom_settings.py
-docker-compose.yml
 *.zip
 rsyncd.passwd
 oj.conf
