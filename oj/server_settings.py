@@ -36,7 +36,7 @@ REDIS_QUEUE = {
     "db": 2
 }
 
-DEBUG = False
+DEBUG = True 
 
 ALLOWED_HOSTS = ['*']
 
